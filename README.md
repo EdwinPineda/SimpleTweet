@@ -35,7 +35,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-![](recording3.gif)
+![](recording4.gif)
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
